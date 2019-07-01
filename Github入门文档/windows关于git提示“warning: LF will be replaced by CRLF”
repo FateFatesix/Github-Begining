@@ -1,5 +1,0 @@
-windows关于git提示“warning: LF will be replaced by CRLF”
-
-$ git config --global core.autocrlf input
-
-$git config --global core.autocrlf false
